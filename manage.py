@@ -5,5 +5,7 @@ num3 = 3
 num4 = 4
 
 
+
 manager = zhangsan 
 
+manager1 = manager
